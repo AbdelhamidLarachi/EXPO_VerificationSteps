@@ -3,7 +3,7 @@
 //  Verification-ui-kit
 //
 //  Created by Abdelhamid Larachi.
-//  Copyright © 2020 NitroCoding. All rights reserved.
+//  Copyright © 2020 clean-ui. All rights reserved.
 //
 
 import React from "react"
@@ -85,7 +85,6 @@ export default class Questionary extends React.Component {
 						<View
 							pointerEvents="box-none"
 							style={{
-								height: 4.5*h,
 								marginTop: 1.6*h,
 								flexDirection: "row",
 								alignItems: "flex-start",
@@ -111,7 +110,6 @@ export default class Questionary extends React.Component {
 						<View
 							pointerEvents="box-none"
 							style={{
-								height: 4.5*h,
 								marginRight: 7.5*w,
 								marginTop: 1.6*h,
 								flexDirection: "row",
@@ -137,7 +135,6 @@ export default class Questionary extends React.Component {
 						<View
 							pointerEvents="box-none"
 							style={{
-								height: 4.5*h,
 								marginTop: 1.6*h,
 								flexDirection: "row",
 								alignItems: "flex-start",

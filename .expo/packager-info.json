@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 35090,
+  "expoServerNgrokUrl": "https://mb-ryw.anonymous.project.exp.direct",
+  "packagerNgrokUrl": "https://packager.mb-ryw.anonymous.project.exp.direct",
+  "ngrokPid": 35103,
   "webpackServerPort": null
 }

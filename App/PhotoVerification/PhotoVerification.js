@@ -3,7 +3,7 @@
 //  Verification-ui-kit
 //
 //  Created by Abdelhamid Larachi.
-//  Copyright © 2020 NitroCoding. All rights reserved.
+//  Copyright © 2020 clean-ui. All rights reserved.
 //
 
 import React from "react"
